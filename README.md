@@ -6,6 +6,11 @@ A cozy Haven in the Heart of the South
 
 Nestled beneath the shadow of ancient oaks, The Black Magnolia invites you to escape into a world of literary charm and rustic comfort. Sip on rich, Southern-brewed coffee, savor freshly baked treats, and lose yourself in a good book. A place where the mysterious and the cozy come together.
 
+### Scope
+- This website will have three pages
+- There will be interactivity with an Add to Cart button & ContactMe form
+- Things outside of the scope might include bakery timers on goods & checkout log for books
+
 ### Wireframe
 
 ### System Requirements
