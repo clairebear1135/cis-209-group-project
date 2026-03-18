@@ -88,15 +88,15 @@ Strategies to Manage Personality Differences
 
 - Here’s a clear, simple, and personalized biography based on what you asked:
 
-Name: Jaylen Hulsey
+**Name: Jaylen Hulsey**
 
-Biography:
+**Biography:**
 My name is Jaylen Hulsey, and I am currently a student working toward building a career in a technical field. I’m interested in learning how systems work and enjoy problem-solving, especially when it involves technology and logical thinking. My goal is to continue developing my skills so I can pursue a career where I can work with complex ideas and create practical solutions.
 
-Personality Type:
+**Personality Type:**
 INTP-P
 
-🧠Explanation of My Personality and Teamwork:
+🧠**Explanation of My Personality and Teamwork:**
 As an INTP-P, I am naturally curious, analytical, and independent. I enjoy exploring ideas, thinking deeply about problems, and coming up with creative or unconventional solutions. I tend to focus more on understanding concepts rather than strictly following structure, and I like having the flexibility to approach tasks in my own way.
 
 When working with my teammates, our different personality types balance each other well. Daniel, who is an ISTJ-T, brings structure, organization, and reliability to the group, helping keep tasks on track and clearly defined. Claire, an INTJ-T, is strategic and goal-oriented, often focusing on long-term planning and efficiency.
