@@ -1,11 +1,18 @@
 # cis-209-group-project
 Group 1's CIS 209 Group Project - Development Team: Claire, Jaylen, Daniel
 
+### Business Description
+A cozy Haven in the Heart of the South
+
+Nestled beneath the shadow of ancient oaks, The Black Magnolia invites you to escape into a world of literary charm and rustic comfort. Sip on rich, Southern-brewed coffee, savor freshly baked treats, and lose yourself in a good book. A place where the mysterious and the cozy come together.
+
+### Wireframe
+
 ### System Requirements
--[x] Implement all pics provided by business
--[x] Ensure that aesthetic follows established brand image
--[x] Products page
--[x} Freshness guaranteeds & celebrities mentioned
+- [x] Implement all pics provided by business
+- [x] Ensure that aesthetic follows established brand image
+- [x] Products page
+- [x] Freshness guaranteeds & celebrities mentioned
 
 ### TechnicaL Requirements
 - This website will primarily be built using HTML, CSS
