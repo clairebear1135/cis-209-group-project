@@ -34,12 +34,6 @@ Nestled beneath the shadow of ancient oaks, The Black Magnolia invites you to es
 - CSS
 - JavaScript
 ### Meet the Developers
-- Claire 
-- Daniel
-- Jaylen
-
-
-# 👥 Meet the Developers
 
 ## 🧑‍💻 Daniel Angon
 
