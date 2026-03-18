@@ -65,3 +65,23 @@ Strategies to Manage Personality Differences
 - Set clear roles and expectations early.  
 - Use structured communication tools like task boards or agendas.  
 - Balance brainstorming with practical steps so everyone’s strengths fit into the workflow.
+
+
+
+Name: Claire Whitney
+Biography: Claire enjoys gaming, coding, and reading. Originally from New Mexico, she earned her GED in 2019 and has since pursued hands-on technical learning with persistence and curiosity.
+Project Role: Coding — Claire prefers working directly with the technical side of the project, focusing on functionality and structure.
+Personality Type: INTJ‑T – Architect
+Explanation: INTJs are strategic, independent thinkers who value efficiency and long-term vision. As a “Turbulent” variant, Claire may be more self-reflective and adaptable under pressure. She brings focus, planning, and a strong drive to improve systems and solve problems.
+
+🧠 Team Personality Reflection (Claire’s Perspective)
+How My Type Works Well With Others
+INTJs thrive in structured environments and enjoy collaborating with teammates who are clear, goal-oriented, and open to logical feedback. They pair well with creative types who bring fresh ideas, as long as those ideas are grounded in purpose. INTJs often take initiative and help guide the team toward long-term success.
+
+Where Conflicts Might Occur
+INTJs may struggle with vague communication or indecision. They can come off as blunt or overly critical when trying to improve a system. Emotional dynamics or spontaneous changes without explanation may cause friction, especially if the team lacks a clear plan.
+Strategies to Manage Personality Differences
+- Use clear goals and timelines to keep everyone aligned.
+- Encourage open feedback but frame it constructively.
+- Respect different working styles — some teammates may need more flexibility or emotional support.
+- Balance logic with empathy: INTJs can benefit from listening to emotional cues and adjusting tone when needed.
