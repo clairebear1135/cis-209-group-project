@@ -32,3 +32,36 @@ Nestled beneath the shadow of ancient oaks, The Black Magnolia invites you to es
 - Claire 
 - Daniel
 - Jaylen
+
+
+Name
+Daniel Angon
+
+Short Biography
+I’m someone who enjoys gaming and is working toward building a career in a technical field. 
+
+Area of Interest in the Project
+Coding — I prefer working hands‑on with the technical side of the project.
+
+Personality Type
+ISTJ‑T
+
+Brief Explanation of My Personality Type
+As an ISTJ‑T, I’m reliable, straightforward, and detail‑focused. I like structure and consistency, and I work best when expectations are clear. I can be a bit rigid or insensitive at times, especially when things feel unorganized or overly abstract.
+
+---
+
+🧠 Team Personality Reflection (My Perspective)
+
+How My Type Works Well With Others
+- I help keep the team organized and grounded with clear steps and consistent follow‑through.  
+- I work well with teammates who bring creativity or big‑picture ideas, as long as we can turn them into concrete tasks.
+
+Where Conflicts Might Occur
+- I may clash with INTJ‑T teammates when their long‑term planning feels too detached from immediate tasks.  
+- I may clash with INTP‑T teammates when their flexible, debate‑heavy style disrupts structure or slows down progress.
+
+Strategies to Manage Personality Differences
+- Set clear roles and expectations early.  
+- Use structured communication tools like task boards or agendas.  
+- Balance brainstorming with practical steps so everyone’s strengths fit into the workflow.
