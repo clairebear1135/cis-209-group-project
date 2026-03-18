@@ -88,8 +88,6 @@ Strategies to Manage Personality Differences
 
 - Here’s a clear, simple, and personalized biography based on what you asked:
 
----
-
 Name: Jaylen Hulsey
 
 Biography:
