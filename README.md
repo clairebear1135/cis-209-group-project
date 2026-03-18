@@ -85,3 +85,22 @@ Strategies to Manage Personality Differences
 - Encourage open feedback but frame it constructively.
 - Respect different working styles — some teammates may need more flexibility or emotional support.
 - Balance logic with empathy: INTJs can benefit from listening to emotional cues and adjusting tone when needed.
+
+- Here’s a clear, simple, and personalized biography based on what you asked:
+
+---
+
+Name: Jaylen Hulsey
+
+Biography:
+My name is Jaylen Hulsey, and I am currently a student working toward building a career in a technical field. I’m interested in learning how systems work and enjoy problem-solving, especially when it involves technology and logical thinking. My goal is to continue developing my skills so I can pursue a career where I can work with complex ideas and create practical solutions.
+
+Personality Type:
+INTP-P
+
+🧠Explanation of My Personality and Teamwork:
+As an INTP-P, I am naturally curious, analytical, and independent. I enjoy exploring ideas, thinking deeply about problems, and coming up with creative or unconventional solutions. I tend to focus more on understanding concepts rather than strictly following structure, and I like having the flexibility to approach tasks in my own way.
+
+When working with my teammates, our different personality types balance each other well. Daniel, who is an ISTJ-T, brings structure, organization, and reliability to the group, helping keep tasks on track and clearly defined. Claire, an INTJ-T, is strategic and goal-oriented, often focusing on long-term planning and efficiency.
+
+Together, we work effectively because Daniel helps ground the team with clear structure, Claire provides direction and planning, and I contribute by analyzing problems and generating ideas. While our approaches can differ, combining our strengths allows us to complete projects more thoroughly and efficiently.
