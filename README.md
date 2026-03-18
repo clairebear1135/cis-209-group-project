@@ -34,71 +34,117 @@ Nestled beneath the shadow of ancient oaks, The Black Magnolia invites you to es
 - Jaylen
 
 
-Name
-Daniel Angon
+# 👥 Meet the Developers
 
-Short Biography
-I’m someone who enjoys gaming and is working toward building a career in a technical field. 
+## 🧑‍💻 Daniel Angon
 
-Area of Interest in the Project
-Coding — I prefer working hands‑on with the technical side of the project.
+**Short Biography**  
+Daniel enjoys gaming and is working toward building a career in a technical field. He prefers hands-on learning and building practical skills.
 
-Personality Type
-ISTJ‑T
+**Project Role**  
+**Coding** — Focuses on the technical side of development.
 
-Brief Explanation of My Personality Type
-As an ISTJ‑T, I’m reliable, straightforward, and detail‑focused. I like structure and consistency, and I work best when expectations are clear. I can be a bit rigid or insensitive at times, especially when things feel unorganized or overly abstract.
+**Personality Type**  
+**ISTJ-T (Logistician)**
+
+**Personality Overview**  
+Daniel is reliable, detail-focused, and values structure and consistency. He works best when expectations are clear and tasks are well-defined. He may come across as rigid or blunt when things feel unorganized or unclear.
+
+### 🧠 Team Reflection (Daniel’s Perspective)
+
+**Strengths in a Team**
+- Keeps the team organized with clear steps  
+- Ensures consistent follow-through  
+- Helps turn ideas into actionable tasks  
+
+**Potential Challenges**
+- May clash with long-term thinkers if plans feel too abstract  
+- May struggle with flexible or unstructured approaches  
+
+**Strategies for Team Success**
+- Define clear roles and expectations early  
+- Use structured tools (task boards, agendas)  
+- Balance creativity with practical execution  
 
 ---
 
-🧠 Team Personality Reflection (My Perspective)
+## 🧑‍💻 Claire Whitney
 
-How My Type Works Well With Others
-- I help keep the team organized and grounded with clear steps and consistent follow‑through.  
-- I work well with teammates who bring creativity or big‑picture ideas, as long as we can turn them into concrete tasks.
+**Short Biography**  
+Claire enjoys gaming, coding, and reading. Originally from New Mexico, she earned her GED in 2019 and has continued developing her technical skills through hands-on learning.
 
-Where Conflicts Might Occur
-- I may clash with INTJ‑T teammates when their long‑term planning feels too detached from immediate tasks.  
-- I may clash with INTP‑T teammates when their flexible, debate‑heavy style disrupts structure or slows down progress.
+**Project Role**  
+**Coding** — Focuses on functionality and system structure.
 
-Strategies to Manage Personality Differences
-- Set clear roles and expectations early.  
-- Use structured communication tools like task boards or agendas.  
-- Balance brainstorming with practical steps so everyone’s strengths fit into the workflow.
+**Personality Type**  
+**INTJ-T (Architect)**
 
+**Personality Overview**  
+Claire is a strategic and independent thinker who values efficiency and long-term planning. She is self-reflective and driven to improve systems and solve complex problems.
 
+### 🧠 Team Reflection (Claire’s Perspective)
 
-Name: Claire Whitney
-Biography: Claire enjoys gaming, coding, and reading. Originally from New Mexico, she earned her GED in 2019 and has since pursued hands-on technical learning with persistence and curiosity.
-Project Role: Coding — Claire prefers working directly with the technical side of the project, focusing on functionality and structure.
-Personality Type: INTJ‑T – Architect
-Explanation: INTJs are strategic, independent thinkers who value efficiency and long-term vision. As a “Turbulent” variant, Claire may be more self-reflective and adaptable under pressure. She brings focus, planning, and a strong drive to improve systems and solve problems.
+**Strengths in a Team**
+- Strong planning and long-term vision  
+- Goal-oriented and efficient  
+- Provides logical, constructive feedback  
 
-🧠 Team Personality Reflection (Claire’s Perspective)
-How My Type Works Well With Others
-INTJs thrive in structured environments and enjoy collaborating with teammates who are clear, goal-oriented, and open to logical feedback. They pair well with creative types who bring fresh ideas, as long as those ideas are grounded in purpose. INTJs often take initiative and help guide the team toward long-term success.
+**Potential Challenges**
+- May struggle with vague communication or indecision  
+- Can come across as blunt or overly critical  
+- Dislikes sudden, unexplained changes  
 
-Where Conflicts Might Occur
-INTJs may struggle with vague communication or indecision. They can come off as blunt or overly critical when trying to improve a system. Emotional dynamics or spontaneous changes without explanation may cause friction, especially if the team lacks a clear plan.
-Strategies to Manage Personality Differences
-- Use clear goals and timelines to keep everyone aligned.
-- Encourage open feedback but frame it constructively.
-- Respect different working styles — some teammates may need more flexibility or emotional support.
-- Balance logic with empathy: INTJs can benefit from listening to emotional cues and adjusting tone when needed.
+**Strategies for Team Success**
+- Set clear goals and timelines  
+- Encourage constructive communication  
+- Respect different working styles  
+- Balance logic with empathy  
 
-- Here’s a clear, simple, and personalized biography based on what you asked:
+---
 
-**Name: Jaylen Hulsey**
+## 🧑‍💻 Jaylen Hulsey
 
-**Biography:**
-My name is Jaylen Hulsey, and I am currently a student working toward building a career in a technical field. I’m interested in learning how systems work and enjoy problem-solving, especially when it involves technology and logical thinking. My goal is to continue developing my skills so I can pursue a career where I can work with complex ideas and create practical solutions.
+**Short Biography**  
+Jaylen is a student working toward a career in a technical field. He enjoys problem-solving, understanding systems, and working with complex ideas to create practical solutions.
 
-**Personality Type:**
-INTP-P
+**Project Role**  
+**Problem-Solving & Analysis** — Focuses on exploring ideas and developing solutions.
 
-🧠**Explanation of My Personality and Teamwork:**
-As an INTP-P, I am naturally curious, analytical, and independent. I enjoy exploring ideas, thinking deeply about problems, and coming up with creative or unconventional solutions. I tend to focus more on understanding concepts rather than strictly following structure, and I like having the flexibility to approach tasks in my own way.
+**Personality Type**  
+**INTP-P (Logician)**
 
-When working with my teammates, our different personality types balance each other well. Daniel, who is an ISTJ-T, brings structure, organization, and reliability to the group, helping keep tasks on track and clearly defined. Claire, an INTJ-T, is strategic and goal-oriented, often focusing on long-term planning and efficiency.
+**Personality Overview**  
+Jaylen is analytical, curious, and independent. He enjoys exploring concepts deeply and finding creative or unconventional solutions. He prefers flexibility over rigid structure.
 
-Together, we work effectively because Daniel helps ground the team with clear structure, Claire provides direction and planning, and I contribute by analyzing problems and generating ideas. While our approaches can differ, combining our strengths allows us to complete projects more thoroughly and efficiently.
+### 🧠 Team Reflection (Jaylen’s Perspective)
+
+**Strengths in a Team**
+- Generates creative and innovative ideas  
+- Strong analytical and problem-solving skills  
+- Brings flexible thinking to challenges  
+
+**Potential Challenges**
+- May struggle with strict structure or rigid processes  
+- Can get caught in analysis or debate  
+
+**Strategies for Team Success**
+- Allow flexibility in approach  
+- Combine ideas with structured planning  
+- Keep discussions focused and productive  
+
+---
+
+# 🤝 Team Dynamic
+
+This team works effectively by combining different strengths:
+
+- **Daniel** provides **structure, organization, and reliability**  
+- **Claire** offers **strategy, planning, and direction**  
+- **Jaylen** contributes **analysis, creativity, and problem-solving**  
+
+Together, these complementary skills allow the team to:
+- Stay organized and on track  
+- Plan effectively for long-term success  
+- Approach problems from multiple perspectives  
+
+**Result:** A balanced team that can turn ideas into well-executed solutions 🚀
