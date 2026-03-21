@@ -23,7 +23,7 @@ Nestled beneath the shadow of ancient oaks, The Black Magnolia invites you to es
 ### TechnicaL Requirements
 - This website will primarily be built using HTML, CSS
 - JS may be used for simple interactive features.
-- The progject will be hosted using Github Page [link].
+- The project will be hosted using Github Page [link].
 - No external APIs will be required.
 - All work be mainted and version-controlled through Github.
 
@@ -34,7 +34,8 @@ Nestled beneath the shadow of ancient oaks, The Black Magnolia invites you to es
 - HTML
 - CSS
 - JavaScript
-### Meet the Developers
+
+# Meet the Developers
 
 ## 🧑‍💻 Daniel Angon
 
