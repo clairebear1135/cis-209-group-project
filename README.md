@@ -12,7 +12,7 @@ Nestled beneath the shadow of ancient oaks, The Black Magnolia invites you to es
 - Things outside of the scope might include bakery timers on goods & checkout log for books
 
 ### Wireframe
-https://github.com/clairebear1135/cis-209-group-project/blob/main/wireframe.png?raw=true
+![Wireframe](https://github.com/clairebear1135/cis-209-group-project/blob/main/wireframe.png?raw=true)
 
 ### System Requirements
 - [] Implement all pics provided by business
