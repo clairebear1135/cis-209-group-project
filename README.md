@@ -1,5 +1,5 @@
 # cis-209-group-project
-Group 1's CIS 209 Group Project - Development Team: Claire, Jaylen, Daniel
+Group Alpha's CIS 209 Group Project - Development Team: Claire, Jaylen, Daniel
 
 ### Business Description
 A Cozy Haven in the Heart of the South
