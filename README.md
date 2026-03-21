@@ -1,6 +1,9 @@
 # cis-209-group-project
 Group Alpha's CIS 209 Group Project - Development Team: Claire, Jaylen, Daniel
 
+### Introduction
+This project, titled The Black Magnolia, was originally named by Jaylen. It expands on our previous lab assignment, reimagined through a Southern‑Gothic lens that evokes a mysterious yet cozy book‑and‑coffee shop tucked within a midnight‑themed forest. The website is designed to convey warmth, comfort, and inclusivity, inviting like‑minded visitors to explore the space, browse the menu, and reach out easily through a clear contact section. We chose to build on our earlier project because it provided a strong foundation, allowing us to refine and transform it rather than starting entirely from scratch.
+
 ### Business Description
 A Cozy Haven in the Heart of the South
 
