@@ -29,7 +29,9 @@ Nestled beneath the shadow of ancient oaks, The Black Magnolia invites you to es
 - The project will be hosted using Github Page [link].
 - No external APIs will be required.
 - All work be mainted and version-controlled through Github.
-
+- All work must be maintained and version-controlled using Git.
+- The design must follow the Southern-Gothic aesthetic shown in the wireframe (dark tones, overlays, readable contrast).
+  
 ### Hosting
 - Github Pages
 
