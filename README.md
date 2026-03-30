@@ -152,3 +152,111 @@ Together, these complementary skills allow the team to:
 - Approach problems from multiple perspectives  
 
 **Result:** A balanced team that can turn ideas into well-executed solutions 🚀
+
+# 🧾 Issue Cards for The Black Magnolia
+
+---
+
+## Issue 1: Navigation Header
+
+### Shirt Size: S  
+
+## User Story  
+**As a** user  
+**I want** a simple navigation bar  
+**So that** I can easily move between pages  
+
+## Requested Tasks  
+- [ ] Create semantic `<header>`  
+- [ ] Add logo/title  
+- [ ] Create `<nav>` with links (Home, About, Menu, Contact)  
+- [ ] Style using flexbox  
+- [ ] Add hover effects  
+
+---
+
+## Issue 2: Hero / Landing Section
+
+### Shirt Size: M  
+
+## User Story  
+**As a** visitor  
+**I want** an immersive landing section  
+**So that** I immediately understand the brand and atmosphere  
+
+## Requested Tasks  
+- [ ] Add background image  
+- [ ] Create overlay for readability  
+- [ ] Add heading, subheading, and description  
+- [ ] Include CTA button  
+- [ ] Ensure responsiveness  
+
+---
+
+## Issue 3: About Section
+
+### Shirt Size: S  
+
+## User Story  
+**As a** visitor  
+**I want** to learn about the business  
+**So that** I understand its purpose and vibe  
+
+## Requested Tasks  
+- [ ] Create “About Us” section  
+- [ ] Add descriptive text  
+- [ ] Style typography and spacing  
+- [ ] Match site aesthetic  
+
+---
+
+## Issue 4: Menu / Products Page
+
+### Shirt Size: L  
+
+## User Story  
+**As a** customer  
+**I want** to browse menu items  
+**So that** I can decide what to order  
+
+## Requested Tasks  
+- [ ] Create menu/products page  
+- [ ] Add categories (Coffee, Drinks, Bakery)  
+- [ ] Include item descriptions  
+- [ ] Add product images  
+- [ ] Use grid or flex layout  
+
+---
+
+## Issue 5: Add to Cart Functionality
+
+### Shirt Size: M  
+
+## User Story  
+**As a** user  
+**I want** to add items to a cart  
+**So that** I can simulate selecting products  
+
+## Requested Tasks  
+- [ ] Add “Add to Cart” buttons  
+- [ ] Use JavaScript to track items  
+- [ ] Display cart count or list  
+- [ ] (Optional) Store data in localStorage  
+
+---
+
+## Issue 6: Contact Section & Form
+
+### Shirt Size: M  
+
+## User Story  
+**As a** visitor  
+**I want** to contact the business  
+**So that** I can ask questions or get information  
+
+## Requested Tasks  
+- [ ] Create contact section  
+- [ ] Add address and hours  
+- [ ] Build form (name, email, message)  
+- [ ] Add basic validation with JavaScript  
+- [ ] Style form to match theme  
