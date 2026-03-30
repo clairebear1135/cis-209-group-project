@@ -210,53 +210,57 @@ Together, these complementary skills allow the team to:
 
 ---
 
-## Issue 4: Menu / Products Page
+## Issue 4: Sip & Savor (Menu Section)
 
 ### Shirt Size: L  
 
 ## User Story  
 **As a** customer  
-**I want** to browse menu items  
-**So that** I can decide what to order  
+**I want** to view drinks and bakery items  
+**So that** I can see what the shop offers  
 
 ## Requested Tasks  
-- [ ] Create menu/products page  
-- [ ] Add categories (Coffee, Drinks, Bakery)  
-- [ ] Include item descriptions  
-- [ ] Add product images  
-- [ ] Use grid or flex layout  
+- [ ] Create “Sip & Savor” section  
+- [ ] Add subsection: “Coffee & Specialty Drinks”  
+- [ ] List items (Mocha, Cold Brew, Latte) with descriptions  
+- [ ] Add subsection: “Bakery Favorites”  
+- [ ] List items (Pecan Pie, Scones, Tart)  
+- [ ] Style text hierarchy (headings vs descriptions)  
+- [ ] Add decorative dividers or flourishes  
+- [ ] Maintain consistent background imagery and tone  
 
 ---
 
-## Issue 5: Add to Cart Functionality
-
-### Shirt Size: M  
-
-## User Story  
-**As a** user  
-**I want** to add items to a cart  
-**So that** I can simulate selecting products  
-
-## Requested Tasks  
-- [ ] Add “Add to Cart” buttons  
-- [ ] Use JavaScript to track items  
-- [ ] Display cart count or list  
-- [ ] (Optional) Store data in localStorage  
-
----
-
-## Issue 6: Contact Section & Form
+## Issue 5: Contact Section (Info + Layout)
 
 ### Shirt Size: M  
 
 ## User Story  
 **As a** visitor  
-**I want** to contact the business  
-**So that** I can ask questions or get information  
+**I want** to see location and hours  
+**So that** I know when and where to visit  
 
 ## Requested Tasks  
-- [ ] Create contact section  
-- [ ] Add address and hours  
-- [ ] Build form (name, email, message)  
-- [ ] Add basic validation with JavaScript  
-- [ ] Style form to match theme  
+- [ ] Create “Contact Us” section  
+- [ ] Add “Visit Us” subsection with address  
+- [ ] Add “Hours” subsection with business hours  
+- [ ] Layout content in two columns  
+- [ ] Ensure readability over background image  
+
+---
+
+## Issue 6: Contact Details & Footer Text
+
+### Shirt Size: S  
+
+## User Story  
+**As a** visitor  
+**I want** to quickly contact the business  
+**So that** I can reach out if needed  
+
+## Requested Tasks  
+- [ ] Add “Reach Out” subsection  
+- [ ] Include email and phone number  
+- [ ] Style contact info clearly and accessibly  
+- [ ] Add final footer-style text (“We’re always here in spirit…”)  
+- [ ] Center and style text to match overall theme  
