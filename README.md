@@ -1,45 +1,70 @@
 # cis-209-group-project
 Group Alpha's CIS 209 Group Project - Development Team: Claire, Jaylen, Daniel
 
+---
+
 ### Introduction
-This project, titled The Black Magnolia, was originally named by Jaylen. It expands on our previous lab assignment, reimagined through a Southern‑Gothic lens that evokes a mysterious yet cozy book‑and‑coffee shop tucked within a midnight‑themed forest. The website is designed to convey warmth, comfort, and inclusivity, inviting like‑minded visitors to explore the space, browse the menu, and reach out easily through a clear contact section. We chose to build on our earlier project because it provided a strong foundation, allowing us to refine and transform it rather than starting entirely from scratch.
+This project, titled *The Black Magnolia*, was originally named by Jaylen. It expands on our previous lab assignment, reimagined through a Southern-Gothic lens that evokes a mysterious yet cozy book-and-coffee shop tucked within a midnight-themed forest. The website is designed to convey warmth, comfort, and inclusivity, inviting visitors to explore the space, browse the menu, and reach out easily through a clear contact section. We chose to build on our earlier project because it provided a strong foundation, allowing us to refine and transform it rather than starting entirely from scratch.
+
+---
 
 ### Business Description
-A Cozy Haven in the Heart of the South
+**A Cozy Haven in the Heart of the South**
 
-Nestled beneath the shadow of ancient oaks, The Black Magnolia invites you to escape into a world of literary charm and rustic comfort. Sip on rich, Southern-brewed coffee, savor freshly baked treats, and lose yourself in a good book. A place where the mysterious and the cozy come together.
+Nestled beneath the shadow of ancient oaks, *The Black Magnolia* invites you to escape into a world of literary charm and rustic comfort. Sip on rich, Southern-brewed coffee, savor freshly baked treats, and lose yourself in a good book. A place where the mysterious and the cozy come together.
+
+---
 
 ### Scope
-- This website will have three pages
-- There will be interactivity with an Add to Cart button & simple Contact Me form
-- Things outside of the scope might include bakery timers on goods & checkout log for books
+- The website will consist of three pages (Home, Menu, Contact).
+- It will include interactivity such as an “Add to Cart” button and a simple contact form.
+- Features outside the scope include advanced systems such as bakery timers or a full checkout system.
+
+---
+
+### Pages
+- Home Page  
+- Menu / Products Page  
+- Contact Page  
+
+---
 
 ### Wireframe
 ![Wireframe](https://github.com/clairebear1135/cis-209-group-project/blob/main/wireframe.png?raw=true)
 
-### System Requirements
-- [ ] Implement all pics provided by business
-- [ ] Ensure that aesthetic follows established brand image
-- [ ] Products page
-- [ ] Freshness guaranteeds & celebrities mentioned
+---
 
-### TechnicaL Requirements
-- This website will primarily be built using HTML, CSS
-- JS may be used for simple interactive features.
-- The project will be hosted using Github Page [link].
-- No external APIs will be required.
-- All work be mainted and version-controlled through Github.
-- All work must be maintained and version-controlled using Git.
-- The design must follow the Southern-Gothic aesthetic shown in the wireframe (dark tones, overlays, readable contrast).
-  
+### System Requirements
+- [ ] Implement all images provided by the business  
+- [ ] Ensure design follows the established Southern-Gothic brand aesthetic  
+- [ ] Include a functional products/menu page  
+- [ ] Display product descriptions clearly  
+- [ ] Include themed text content consistent with the business concept  
+
+---
+
+### Technical Requirements
+- This website will be built using HTML5 and CSS3.  
+- JavaScript may be used for simple interactive features (e.g., Add to Cart, form validation).  
+- The design must follow the Southern-Gothic aesthetic shown in the wireframe (dark tones, overlays, readable contrast).  
+- The site must be responsive across desktop, tablet, and mobile devices.  
+- Images must be properly implemented and optimized for web use.  
+- No external APIs will be required.  
+- The project will be hosted using GitHub Pages.  
+- All work must be maintained and version-controlled using GitHub.  
+- Project files should be organized into appropriate folders (e.g., `/css`, `/js`, `/images`).  
+
+---
+
 ### Hosting
-- Github Pages
+- GitHub Pages  
+
+---
 
 ### Languages
-- HTML
-- CSS
-- JavaScript
-
+- HTML  
+- CSS  
+- JavaScript  
 # Meet the Developers
 
 ## 🧑‍💻 Daniel Angon
