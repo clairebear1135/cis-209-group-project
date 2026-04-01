@@ -18,10 +18,10 @@ Nestled beneath the shadow of ancient oaks, The Black Magnolia invites you to es
 ![Wireframe](https://github.com/clairebear1135/cis-209-group-project/blob/main/wireframe.png?raw=true)
 
 ### System Requirements
-- [x] Implement all pics provided by business
-- [x] Ensure that aesthetic follows established brand image
-- [x] Products page
-- [x] Freshness guaranteeds & celebrities mentioned
+- [ ] Implement all pics provided by business
+- [ ] Ensure that aesthetic follows established brand image
+- [ ] Products page
+- [ ] Freshness guaranteeds & celebrities mentioned
 
 ### TechnicaL Requirements
 - This website will primarily be built using HTML, CSS
