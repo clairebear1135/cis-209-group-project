@@ -35,11 +35,11 @@ Nestled beneath the shadow of ancient oaks, *The Black Magnolia* invites you to 
 ---
 
 ### System Requirements
-- [ ] Implement all images provided by the business  
-- [ ] Ensure design follows the established Southern-Gothic brand aesthetic  
-- [ ] Include a functional products/menu page  
-- [ ] Display product descriptions clearly  
-- [ ] Include themed text content consistent with the business concept  
+- [x] Implement all images provided by the business  
+- [x] Ensure design follows the established Southern-Gothic brand aesthetic  
+- [x] Include a functional products/menu page  
+- [x] Display product descriptions clearly  
+- [x] Include themed text content consistent with the business concept  
 
 ---
 
