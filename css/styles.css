@@ -45,6 +45,7 @@ body {
 .nav a:hover {
     color: #c9a66b; /* warm gold tone */
 }
+
 @media (max-width: 768px) {
     .header {
         flex-direction: column;
