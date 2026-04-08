@@ -58,3 +58,68 @@ body {
         margin-top: 10px;
     }
 }
+
+.about {
+    position: relative;
+    background: url("../imgs/aboutSection.png") center/cover no-repeat;
+    padding: 120px 20px;
+    text-align: center;
+    color: #f5f5f5;
+    font-family: "Georgia", serif;
+}
+
+/* DARK + WARM OVERLAY (this is the magic) */
+.about-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(20, 15, 10, 0.65); /* dark brown tint */
+}
+
+/* CONTENT ABOVE OVERLAY */
+.about-content {
+    position: relative;
+    max-width: 850px;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+/* TITLE */
+.about h2 {
+    font-size: 42px;
+    margin-bottom: 30px;
+    font-weight: normal;
+    letter-spacing: 1px;
+}
+
+/* PARAGRAPHS */
+.about p {
+    font-size: 18px;
+    line-height: 1.8;
+    margin-bottom: 20px;
+}
+
+/* OPTIONAL: Slight glow effect like image */
+.about h2,
+.about p {
+    text-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+}
+.about h2 {
+    font-size: 42px;
+    margin-bottom: 30px;
+    font-weight: normal;
+    letter-spacing: 1px;
+    position: relative;
+}
+
+/* Underline */
+.about h2::after {
+    content: "";
+    display: block;
+    width: 150px;
+    height: 2px;
+    background-color: #f5f5f5;
+    margin: 10px auto 0;
+}
