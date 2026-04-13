@@ -251,3 +251,49 @@ body {
 .add-to-cart:hover {
   background: #a87f55;
 }
+
+.contact {
+position: relative;
+background: url("../imgs/contactSection.png") center/cover no-repeat;
+padding: 120px 20px;
+text-align: center;
+color: #f5e9d6;
+font-family: Georgia, serif;
+}
+
+.contact-grid {
+display: flex;
+justify-content: space-between;
+gap: 40px;
+margin-top: 30px;
+text-align: left;
+}
+
+.contact-left,
+.contact-right {
+width: 45%;
+}
+
+.contact-grid h3 {
+font-size: 22px;
+margin-bottom: 10px;
+font-style: italic;
+}
+
+.contact-grid p {
+margin: 5px 0;
+font-size: 16px;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+.contact-grid {
+flex-direction: column;
+text-align: center;
+}
+
+.contact-left,
+.contact-right {
+    width: 100%;
+}
+}
