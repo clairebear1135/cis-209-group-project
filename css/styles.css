@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: Georgia, serif;
     background-color: #1a1a1a;
-    color: #f5f5f5;
+    color: #f5e9d6;
 }
 /* Header Container */
 .header {
@@ -64,7 +64,7 @@ body {
     background: url("../imgs/aboutSection.png") center/cover no-repeat;
     padding: 120px 20px;
     text-align: center;
-    color: #f5f5f5;
+    color: #f5e9d6;
     font-family: "Georgia", serif;
 }
 
@@ -145,7 +145,7 @@ body {
 /* Content */
 .hero-content {
    text-align: center;
-   color: #f5f5f5;
+   color: #f5e9d6;
    max-width: 800px;
    padding: 20px;
 }
@@ -197,4 +197,103 @@ body {
 .btn:hover {
    background: #f5f5f5;
    color: #000;
+}
+
+.menu-section {
+  background-image: url('../imgs/menuSection.png');
+  background-size: cover;
+  background-position: center;
+  padding: 80px 0;
+}
+
+.menu-overlay {
+  background: rgba(0, 0, 0, 0.45);
+  padding: 40px;
+  max-width: 900px;
+  margin: 0 auto;
+  border-radius: 12px;
+  color: #f5e9d6;
+  text-align: center;
+  font-family: 'Georgia', serif;
+}
+
+.menu-title {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.menu-category h2 {
+  font-size: 1.8rem;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #f5e9d6;
+  padding-bottom: 8px;
+}
+
+.product-card {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  backdrop-filter: blur(4px);
+}
+
+.add-to-cart {
+  background: #c49a6c;
+  color: #fff;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.add-to-cart:hover {
+  background: #a87f55;
+}
+
+.contact {
+position: relative;
+background: url("../imgs/contactSection.png") center/cover no-repeat;
+padding: 120px 20px;
+text-align: center;
+color: #f5e9d6;
+font-family: Georgia, serif;
+}
+
+.contact-grid {
+display: flex;
+justify-content: space-between;
+gap: 40px;
+margin-top: 30px;
+text-align: left;
+}
+
+.contact-left,
+.contact-right {
+width: 45%;
+}
+
+.contact-grid h3 {
+font-size: 22px;
+margin-bottom: 10px;
+font-style: italic;
+}
+
+.contact-grid p {
+margin: 5px 0;
+font-size: 16px;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+.contact-grid {
+flex-direction: column;
+text-align: center;
+}
+
+.contact-left,
+.contact-right {
+    width: 100%;
+}
 }
