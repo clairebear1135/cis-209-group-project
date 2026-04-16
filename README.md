@@ -45,7 +45,7 @@ Nestled beneath the shadow of ancient oaks, *The Black Magnolia* invites you to 
 
 ### Technical Requirements
 - This website will be built using HTML5 and CSS3.  
-- JavaScript may be used for simple interactive features (e.g., Add to Cart, form validation).  
+- JavaScript may be used for simple interactive features (e.g., Add to Cart).  
 - The design must follow the Southern-Gothic aesthetic shown in the wireframe (dark tones, overlays, readable contrast).  
 - The site must be responsive across desktop, tablet, and mobile devices.  
 - Images must be properly implemented and optimized for web use.  
