@@ -1,19 +1,28 @@
+/* --------------------------------------------------
+   GLOBAL
+-------------------------------------------------- */
 body {
     margin: 0;
     font-family: Georgia, serif;
     background-color: #1a1a1a;
-    color: #f5f5f5;
+    color: #f5e9d6;
 }
-/* Header Container */
+
+section {
+    padding: 100px 20px;
+}
+
+/* --------------------------------------------------
+   HEADER + NAVIGATION
+-------------------------------------------------- */
 .header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 40px;
+    padding: 28px 60px;
     background-color: #111;
 }
 
-/* Logo */
 .logo h1 {
     margin: 0;
     font-size: 24px;
@@ -25,11 +34,10 @@ body {
     color: #ccc;
 }
 
-/* Navigation */
 .nav ul {
     list-style: none;
     display: flex;
-    gap: 20px;
+    gap: 32px;
     margin: 0;
     padding: 0;
 }
@@ -38,12 +46,15 @@ body {
     text-decoration: none;
     color: #f5f5f5;
     font-weight: bold;
-    transition: color 0.3s;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    padding: 6px 4px;
+    transition: color 0.3s, opacity 0.3s;
 }
 
-/* Hover Effect */
 .nav a:hover {
-    color: #c9a66b; /* warm gold tone */
+    color: #c9a66b;
+    opacity: 0.85;
 }
 
 @media (max-width: 768px) {
@@ -59,62 +70,138 @@ body {
     }
 }
 
+/* --------------------------------------------------
+   HERO SECTION
+-------------------------------------------------- */
+.hero {
+    height: 100vh;
+    background: url("../imgs/homepageSection.png") no-repeat center center/cover;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+}
+
+.hero-overlay {
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.55);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-content {
+    text-align: center;
+    color: #f5e9d6;
+    max-width: 800px;
+    padding: 40px;                 
+    background: rgba(0, 0, 0, 0.55); 
+    border-radius: 12px;            
+}
+
+.hero h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+    font-style: italic;
+}
+
+.hero h1 {
+    font-size: 56px;
+    margin-bottom: 10px;
+    letter-spacing: 2px;
+}
+
+.hero h1::after {
+    content: "";
+    display: block;
+    width: 200px;
+    height: 2px;
+    background-color: #f5f5f5;
+    margin: 10px auto;
+}
+
+.tagline {
+    font-size: 18px;
+    margin-bottom: 20px;
+    font-style: italic;
+}
+
+.description {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 25px;
+}
+
+/* --------------------------------------------------
+   BUTTON SYSTEM
+-------------------------------------------------- */
+button,
+.btn,
+.add-to-cart {
+    background: #c49a6c;
+    color: #fff;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 6px;
+    font-family: inherit;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.2s;
+}
+
+button:hover,
+.btn:hover,
+.add-to-cart:hover {
+    background: #a87f55;
+    transform: translateY(-2px);
+}
+
+.btn {
+    background: transparent;
+    border: 2px solid #f5f5f5;
+    color: #f5f5f5;
+}
+
+.btn:hover {
+    background: #f5f5f5;
+    color: #000;
+}
+
+/* --------------------------------------------------
+   ABOUT SECTION
+-------------------------------------------------- */
 .about {
     position: relative;
     background: url("../imgs/aboutSection.png") center/cover no-repeat;
-    padding: 120px 20px;
     text-align: center;
-    color: #f5f5f5;
-    font-family: "Georgia", serif;
 }
 
-/* DARK + WARM OVERLAY (this is the magic) */
 .about-overlay {
     position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: rgba(20, 15, 10, 0.65); /* dark brown tint */
+    inset: 0;
+    background: rgba(0, 0, 0, 0.55);
 }
 
-/* CONTENT ABOVE OVERLAY */
 .about-content {
     position: relative;
     max-width: 850px;
     margin: 0 auto;
+    padding: 40px;                  
+    background: rgba(0, 0, 0, 0.55); 
+    border-radius: 12px;             
     z-index: 1;
 }
 
-/* TITLE */
 .about h2 {
     font-size: 42px;
     margin-bottom: 30px;
     font-weight: normal;
     letter-spacing: 1px;
-}
-
-/* PARAGRAPHS */
-.about p {
-    font-size: 18px;
-    line-height: 1.8;
-    margin-bottom: 20px;
-}
-
-/* OPTIONAL: Slight glow effect like image */
-.about h2,
-.about p {
     text-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
 }
-.about h2 {
-    font-size: 42px;
-    margin-bottom: 30px;
-    font-weight: normal;
-    letter-spacing: 1px;
-    position: relative;
-}
 
-/* Underline */
 .about h2::after {
     content: "";
     display: block;
@@ -123,78 +210,213 @@ body {
     background-color: #f5f5f5;
     margin: 10px auto 0;
 }
-.hero {
-   height: 100vh;
-   background: url("../imgs/homepageSection.png") no-repeat center center/cover;
-   position: relative;
-   display: flex;
-   align-items: center;
-   justify-content: center;
+
+.about p {
+    font-size: 18px;
+    line-height: 1.8;
+    margin-bottom: 20px;
+    text-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
 }
 
-/* Dark overlay */
-.hero-overlay {
-   width: 100%;
-   height: 100%;
-   background: rgba(0, 0, 0, 0.55);
-   display: flex;
-   align-items: center;
-   justify-content: center;
+/* --------------------------------------------------
+   SIP & SAVOR
+-------------------------------------------------- */
+
+.menu-section {
+    position: relative; /* REQUIRED for ::before overlay */
+    background-image: url('../imgs/menuSection.png');
+    background-size: cover;
+    background-position: center;
+    padding: 100px 20px;
 }
 
-/* Content */
-.hero-content {
-   text-align: center;
-   color: #f5f5f5;
-   max-width: 800px;
-   padding: 20px;
+.menu-section::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.45);
+    z-index: 0;
 }
 
-.hero h2 {
-   font-size: 28px;
-   margin-bottom: 10px;
-   font-style: italic;
+.menu-overlay {
+    position: relative;
+    z-index: 1;
+    background: rgba(0, 0, 0, 0.55);
+    padding: 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+    border-radius: 12px;
+    color: #f5e9d6;
 }
 
-.hero h1 {
-   font-size: 56px;
-   margin-bottom: 10px;
-   letter-spacing: 2px;
+.menu-title {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    text-align: center;
 }
 
-/* Underline like your design */
-.hero h1::after {
-   content: "";
-   display: block;
-   width: 200px;
-   height: 2px;
-   background-color: #f5f5f5;
-   margin: 10px auto;
+.menu-title::after {
+    content: "";
+    display: block;
+    width: 150px;
+    height: 2px;
+    background-color: #f5f5f5;
+    margin: 10px auto 0;
 }
 
-.tagline {
-   font-size: 18px;
-   margin-bottom: 20px;
-   font-style: italic;
+.menu-intro {
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto 40px;
+    font-size: 18px;
+    line-height: 1.6;
 }
 
-.description {
-   font-size: 16px;
-   line-height: 1.6;
-   margin-bottom: 25px;
+.menu-columns {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    flex-wrap: wrap;
 }
 
-/* Button */
-.btn {
-   display: inline-block;
-   padding: 12px 25px;
-   border: 2px solid #f5f5f5;
-   color: #f5f5f5;
-   text-decoration: none;
-   transition: 0.3s;
+.menu-category {
+    flex: 1;
+    min-width: 300px;
+    margin-bottom: 40px;
 }
 
-.btn:hover {
-   background: #f5f5f5;
-   color: #000;
+.menu-category h2 {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #f5e9d6;
+    padding-bottom: 8px;
+}
+
+.product-card {
+    text-align: center;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    backdrop-filter: blur(4px);
+}
+
+.product-card h3 {
+    margin-top: 0;
+    font-size: 20px;
+}
+
+.product-card p {
+    margin: 8px 0 15px;
+    font-size: 16px;
+}
+
+.add-to-cart {
+    text-align: center;
+    background: #c49a6c;
+    color: #fff;
+    border: none;
+    padding: 10px 16px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.add-to-cart:hover {
+    background: #a87f55;
+}
+
+.menu-footer {
+    text-align: center;
+    margin-top: 40px;
+    font-style: italic;
+    font-size: 16px;
+}
+
+@media (max-width: 900px) {
+    .menu-columns {
+        flex-direction: column;
+        gap: 20px;
+    }
+}
+
+/* --------------------------------------------------
+   CONTACT (merged Contact Us + Reach Out)
+-------------------------------------------------- */
+.contact {
+    position: relative;
+    background: url("../imgs/contactSection.png") center/cover no-repeat;
+    padding: 120px 20px;
+    text-align: center;
+    color: #f5e9d6;
+}
+
+.contact-overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.55);
+}
+
+.contact-content {
+    position: relative;
+    z-index: 1;
+    background: rgba(0, 0, 0, 0.55);
+    padding: 40px;
+    border-radius: 12px;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.contact-content h1::after {
+    content: "";
+    display: block;
+    width: 150px;
+    height: 2px;
+    background-color: #f5f5f5;
+    margin: 10px auto 0;
+}
+
+/* Grid layout */
+.contact-grid {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    margin-top: 30px;
+    text-align: left;
+}
+
+.contact-left,
+.contact-right {
+    width: 45%;
+}
+
+.contact-grid h3 {
+    font-size: 22px;
+    margin-bottom: 10px;
+    font-style: italic;
+}
+
+.contact-grid p {
+    margin: 5px 0;
+    font-size: 16px;
+}
+
+.footer-text {
+    margin-top: 40px;
+    font-style: italic;
+    font-size: 14px;
+    opacity: 0.9;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+    .contact-grid {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .contact-left,
+    .contact-right {
+        width: 100%;
+    }
 }
