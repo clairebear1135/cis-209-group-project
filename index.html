@@ -13,6 +13,9 @@
     <script src="js/script.js"></script>
 </head>
 
+<body>
+
+<!-- Header -->
 <header class="header">
     <div class="logo">
         <h1>The Black Magnolia</h1>
@@ -21,41 +24,41 @@
 
     <nav class="nav">
         <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Menu</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#menu">Menu</a></li>
+            <li><a href="#contact">Contact</a></li>
         </ul>
     </nav>
 </header>
 
-<body>
+<!-- Hero / Landing Page -->
+<section class="hero">
+    <div class="hero-overlay">
+        <div class="hero-content">
+            <h2 id="home">Welcome to</h2>
+            <h1>The Black Magnolia</h1>
 
-    <section class="hero">
-        <div class="hero-overlay">
-            <div class="hero-content">
-                <h2>Welcome to</h2>
-                <h1>The Black Magnolia</h1>
+            <p class="tagline">— A Cozy Haven in the Heart of the South —</p>
 
-                <p class="tagline">— A Cozy Haven in the Heart of the South —</p>
+            <p class="description">
+                Nestled beneath the shadow of ancient oaks, The Black Magnolia invites you
+                to escape into a world of literary charm and rustic comfort. Sip on rich,
+                Southern-brewed coffee, savor freshly baked treats, and lose yourself in a
+                good book. A place where the mysterious and the cozy come together.
+            </p>
 
-                <p class="description">
-                    Nestled beneath the shadow of ancient oaks, The Black Magnolia invites you
-                    to escape into a world of literary charm and rustic comfort. Sip on rich,
-                    Southern-brewed coffee, savor freshly baked treats, and lose yourself in a
-                    good book. A place where the mysterious and the cozy come together.
-                </p>
-
-                <a href="#" class="btn">Explore Our Shop</a>
-            </div>
+            <a href="#" class="btn">Explore Our Shop</a>
         </div>
-    </section>
+    </div>
+</section>
 
-    <section class="about">
+<!-- About Section -->
+<section class="about">
     <div class="about-overlay"></div>
 
     <div class="about-content">
-        <h2>About Us</h2>
+        <h2 id="about">About Us</h2>
 
         <p>
             Tucked along a quiet Southern street, The Black Magnolia blends the charm
@@ -75,60 +78,66 @@
     </div>
 </section>
 
+<!-- Sip & Savor Menu Section -->
 <section class="menu-section">
   <div class="menu-overlay">
 
-    <h1 class="menu-title">Sip & Savor</h1>
+    <h1 class="menu-title" id="menu">Sip & Savor</h1>
     <p class="menu-intro">
       At The Black Magnolia, every drink and pastry is crafted with care,
       inspired by the flavors of the South.
     </p>
 
-    <!-- Coffee & Specialty Drinks -->
-    <div class="menu-category">
-      <h2>Coffee & Specialty Drinks</h2>
+    <!-- Two-column wrapper -->
+    <div class="menu-columns">
 
-      <div class="product-card">
-        <h3>Black Magnolia Mocha</h3>
-        <p>Dark chocolate, espresso, smoked vanilla.</p>
-        <button class="add-to-cart" data-product="Black Magnolia Mocha">Add to Cart</button>
+      <!-- Coffee & Specialty Drinks -->
+      <div class="menu-category">
+        <h2>Coffee & Specialty Drinks</h2>
+
+        <div class="product-card">
+          <h3>Black Magnolia Mocha</h3>
+          <p>Dark chocolate, espresso, smoked vanilla.</p>
+          <button class="add-to-cart" data-product="Black Magnolia Mocha">Add to Cart</button>
+        </div>
+
+        <div class="product-card">
+          <h3>Spanish Moss Cold Brew</h3>
+          <p>Smooth, earthy, lightly sweet.</p>
+          <button class="add-to-cart" data-product="Spanish Moss Cold Brew">Add to Cart</button>
+        </div>
+
+        <div class="product-card">
+          <h3>Midnight Latte</h3>
+          <p>Espresso with brown-sugar syrup and steamed milk.</p>
+          <button class="add-to-cart" data-product="Midnight Latte">Add to Cart</button>
+        </div>
       </div>
 
-      <div class="product-card">
-        <h3>Spanish Moss Cold Brew</h3>
-        <p>Smooth, earthy, lightly sweet.</p>
-        <button class="add-to-cart" data-product="Spanish Moss Cold Brew">Add to Cart</button>
+      <!-- Bakery Favorites -->
+      <div class="menu-category">
+        <h2>Bakery Favorites</h2>
+
+        <div class="product-card">
+          <h3>Bourbon Pecan Pie</h3>
+          <p>Rich, nutty, and perfectly Southern.</p>
+          <button class="add-to-cart" data-product="Bourbon Pecan Pie">Add to Cart</button>
+        </div>
+
+        <div class="product-card">
+          <h3>Magnolia Honey Scones</h3>
+          <p>Lightly sweet with a floral finish.</p>
+          <button class="add-to-cart" data-product="Magnolia Honey Scones">Add to Cart</button>
+        </div>
+
+        <div class="product-card">
+          <h3>Dark Chocolate Chess Tart</h3>
+          <p>Decadent and velvety.</p>
+          <button class="add-to-cart" data-product="Dark Chocolate Chess Tart">Add to Cart</button>
+        </div>
       </div>
 
-      <div class="product-card">
-        <h3>Midnight Latte</h3>
-        <p>Espresso with brown-sugar syrup and steamed milk.</p>
-        <button class="add-to-cart" data-product="Midnight Latte">Add to Cart</button>
-      </div>
-    </div>
-
-    <!-- Bakery Favorites -->
-    <div class="menu-category">
-      <h2>Bakery Favorites</h2>
-
-      <div class="product-card">
-        <h3>Bourbon Pecan Pie</h3>
-        <p>Rich, nutty, and perfectly Southern.</p>
-        <button class="add-to-cart" data-product="Bourbon Pecan Pie">Add to Cart</button>
-      </div>
-
-      <div class="product-card">
-        <h3>Magnolia Honey Scones</h3>
-        <p>Lightly sweet with a floral finish.</p>
-        <button class="add-to-cart" data-product="Magnolia Honey Scones">Add to Cart</button>
-      </div>
-
-      <div class="product-card">
-        <h3>Dark Chocolate Chess Tart</h3>
-        <p>Decadent and velvety.</p>
-        <button class="add-to-cart" data-product="Dark Chocolate Chess Tart">Add to Cart</button>
-      </div>
-    </div>
+    </div> <!-- end menu-columns -->
 
     <p class="menu-footer">
       These offerings pair beautifully with a good book and a cozy corner.
@@ -137,46 +146,43 @@
   </div>
 </section>
 
- <section class="contact">
+<!-- Contact & Reach Out Sections -->
+<section class="contact">
   <div class="contact-overlay"></div>
 
   <div class="contact-content">
-    <h2>Contact Us</h2>
+
+    <h1 id="contact">Contact Us</h1>
 
     <div class="contact-grid">
-      
       <!-- Left -->
       <div class="contact-left">
         <h3>Visit Us</h3>
         <p>The Black Magnolia</p>
         <p>123 Willow Street</p>
         <p>Rogersville, AL</p>
-      </div>
 
-      <!-- Right -->
-      <div class="contact-right">
         <h3>Hours</h3>
         <p>Monday — Saturday: 8am — 6pm</p>
         <p>Sunday: Closed</p>
       </div>
 
+      <!-- Right -->
+      <div class="contact-right">
+        <h3>Reach Out</h3>
+        <p>Email: hello@blackmagnolia.fake</p>
+        <p>Phone: (555) 123-4567</p>
+
+        <p class="footer-text">
+          We're always here in spirit — whether you're browsing, dreaming, or just passing through.
+        </p>
+      </div>
     </div>
-
-    <section class="contact-extra">
-  <div class="contact-overlay"></div>
-
-  <div class="contact-extra-content">
-    
-    <h3>Reach Out</h3>
-    <p>Email: hello@blackmagnolia.fake</p>
-    <p>Phone: (555) 123-4567</p>
-
-    <p class="footer-text">
-      We're always here in spirit — whether you're browsing, dreaming, or just passing through.
-    </p>
 
   </div>
 </section>
+
+<!-- End! Thank you :) -->
 
 </body>
 </html>

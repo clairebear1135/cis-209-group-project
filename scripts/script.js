@@ -1,4 +1,3 @@
-<script>
   const cart = [];
 
   document.addEventListener("click", function (e) {
@@ -11,4 +10,3 @@
       if (counter) counter.textContent = cart.length;
     }
   });
-</script>
