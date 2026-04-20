@@ -133,45 +133,12 @@ Claire is a strategic and independent thinker who values efficiency and long-ter
 
 ---
 
-## 🧑‍💻 Jaylen Hulsey
-
-**Short Biography**  
-Jaylen is a student working toward a career in a technical field. He enjoys problem-solving, understanding systems, and working with complex ideas to create practical solutions.
-
-**Project Role**  
-**Problem-Solving & Analysis** — Focuses on exploring ideas and developing solutions.
-
-**Personality Type**  
-**INTP-P (Logician)**
-
-**Personality Overview**  
-Jaylen is analytical, curious, and independent. He enjoys exploring concepts deeply and finding creative or unconventional solutions. He prefers flexibility over rigid structure.
-
-### 🧠 Team Reflection (Jaylen’s Perspective)
-
-**Strengths in a Team**
-- Generates creative and innovative ideas  
-- Strong analytical and problem-solving skills  
-- Brings flexible thinking to challenges  
-
-**Potential Challenges**
-- May struggle with strict structure or rigid processes  
-- Can get caught in analysis or debate  
-
-**Strategies for Team Success**
-- Allow flexibility in approach  
-- Combine ideas with structured planning  
-- Keep discussions focused and productive  
-
----
-
 # 🤝 Team Dynamic
 
 This team works effectively by combining different strengths:
 
 - **Daniel** provides **structure, organization, and reliability**  
-- **Claire** offers **strategy, planning, and direction**  
-- **Jaylen** contributes **analysis, creativity, and problem-solving**  
+- **Claire** offers **strategy, planning, and direction**
 
 Together, these complementary skills allow the team to:
 - Stay organized and on track  
